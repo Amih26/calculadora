@@ -29,9 +29,9 @@
     border: none;
     color: rgb(255, 255, 255);
 }
-.botao:hoover{
-    background-color: black;
-    color:white;
+.botao:hover{
+    background-color: rgb(255, 81, 159);
+    color:rgb(255, 215, 242);
 }
 #resultado{
     background-color: white;
